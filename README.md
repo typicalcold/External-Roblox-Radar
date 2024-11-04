@@ -30,6 +30,8 @@ Theres latency issues. but i cant really fix that!
 
 **Instructions**
 
+-INSTALL LATEST PYTHON VERSION ON BOTH DEVICES
+
 -MAKE SURE BOTH DEVICES ARE ON THE SAME WIFI NETWORK, DO NOT USE THIS IN A PUBLIC SPACE LIKE THE LIBRARY OR SCHOOL
 
 -Download everything and unzip it all into a folder somewhere, on both devices , the downlaods folder would work.
