@@ -10,7 +10,7 @@ import threading
 import json
 import socket
 
-selectedport = "8765" #Must match client port
+selectedport = "8765" #Must match client port, keep as is. this is fine
 
 local_player_name = "replace_me" # Roblox username that you want to use on aka, the main account or whatever, ITS CAP SENSITIVE, example: local_player_name = "MyUsername" or local_player_name = "diddy" 
 scale = .8  # Sensitivity. high number = less range but more detail, lower number = see more but less detail
