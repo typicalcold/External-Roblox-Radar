@@ -32,7 +32,7 @@ Theres latency issues. but i cant really fix that!
 
 -MAKE SURE BOTH DEVICES ARE ON THE SAME WIFI NETWORK, DO NOT USE THIS IN A PUBLIC SPACE LIKE THE LIBRARY OR SCHOOL
 
--Download everything and unzip it all into a fold somewhere, on both devices , the downlaods folder would work.
+-Download everything and unzip it all into a folder somewhere, on both devices , the downlaods folder would work.
 
 -ON ALT ACCOUNT PC copy everything in client.lua into your executor of choice (anything works as long as it has websocket support, this account is the one your fine with getting banned on)
 
