@@ -3,6 +3,9 @@
 **What is this?**
 This is for people who want to have a small advantage, without a big risk of detection on your main account. This is dumb, i know.
 
+
+
+
 **How does this work?**
 2 players join the same game. 
 
