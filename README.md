@@ -7,6 +7,7 @@ This is for people who want to have a small advantage, without a big risk of det
 
 
 **How does this work?**
+
 2 players join the same game. 
 
 Theres 2 computers/devices (android emulators might work? but only maybe for client) 
