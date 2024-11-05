@@ -46,7 +46,7 @@ Theres latency issues. but i cant really fix that!
 
 -ON ALT ACCOUNT PC set localPlayer to your main accounts username
 
--ON MAIN ACCOUNT PC open python file as notepad and set local_player_name to your main roblox name and save the file
+-ON MAIN ACCOUNT PC open python file as notepad and set local_player_name to your main roblox name and set the local ip variable, then save the file
 
 .
 
