@@ -56,6 +56,8 @@ Theres latency issues. but i cant really fix that!
 
 **How to run**
 
+make sure both devices are on the same wifi network
+
 make sure both devices are in the same roblox server
 
 Run the server.py FIRST
